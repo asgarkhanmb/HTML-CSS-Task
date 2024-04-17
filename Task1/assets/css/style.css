@@ -1,0 +1,75 @@
+﻿
+
+
+/*TO  NAV BAR  WHITE COLORED */
+.navbar-inverse .navbar-nav > li > a {
+color: #FFF;
+}
+
+.navbar-inverse .navbar-brand {
+color: #FFF;
+}
+
+.navbar-inverse {
+background-color: rgb(199, 7, 7);
+border-color: rgb(223, 6, 6)
+}
+ 
+/*=======================================
+    HOME SECTION STYLES
+==================================================*/
+
+
+.head-btn-one {
+    background-color: rgba(20, 173, 124, 1);
+     border: 0px solid #fff;
+
+}
+
+#home {
+    padding-top:100px;
+    padding-bottom:130px;
+    color:#fff;
+}
+.head-main {
+    font-size:50px ;
+    font-weight:900;
+    
+}
+
+.head-last {
+    font-size:20px ;
+    font-weight:300;
+    padding:5px 20px 20px 20px;
+}
+
+.btn-lg, .btn-group-lg > .btn {
+border-radius: 0px; 
+
+}
+
+/*=======================================
+    COLOR CODES
+==================================================*/
+
+.color-bg-one {
+    background-color:rgb(187, 10, 10)!important;
+    color:#fff;
+}
+.color-white {
+   background-color:#fff!important;
+}
+#add {
+    font-size:30px;
+    line-height:40px;
+    
+}
+#contact-inner .form-control {
+   
+    height: 55px;
+}
+
+
+
+
+
